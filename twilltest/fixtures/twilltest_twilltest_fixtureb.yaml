@@ -1,0 +1,16 @@
+- model: auth.user
+  pk: 1
+  fields:
+    username: b
+    password: sha1$9e985$c0a49fffef1f09c460a56b6f714217408ee6c8dd
+    date_joined: 2010-03-19 23:30:11.822482
+    last_login: 2010-03-19 23:30:11.855915
+    first_name: ''
+    last_name: ''
+    email: ''
+    is_active: true
+    is_staff: false
+    is_superuser: false
+    groups: []
+    user_permissions: []
+    

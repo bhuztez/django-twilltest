@@ -1,0 +1,4 @@
+django-twilltest
+
+append 'twilltest', 'twilltests' to settings.INSTALLED_APPS
+define your test in twilltests.test_appname
